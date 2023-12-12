@@ -15,3 +15,6 @@ const greaterthan = num.filter(num => num > 0)
 
 
 console.log('this greaterthan numbars', greaterthan , '  ', 'and' , 'this a lessthan numbars' ,lessthan)
+
+//
+
