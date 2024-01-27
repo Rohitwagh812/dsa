@@ -1,3 +1,6 @@
+// cab status
+
+
 const bookCab = 
 new Promise((resolve, reject) => {
    let cabBooked = false;
@@ -23,3 +26,6 @@ new Promise((resolve, reject) => {
 bookCab
 .then((message) => {console.log(message);})
 .catch((error) => { console.log(error);})
+
+
+
