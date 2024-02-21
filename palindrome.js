@@ -1,6 +1,4 @@
-  
-  
-
+   
 // Palindrome in js 
 // Example of a palindrome
 // Redar === reverse Of REDAR
